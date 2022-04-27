@@ -6,8 +6,6 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="file:///C:/Users/ANJALI%20CHAUHAN/Downloads/Screenshot%202022-04-27%20at%2017-09-04%20Document.png" alt="project-screenshot" width="80%" height="400/">
-
   
   
 <h2>🧐 Features</h2>
