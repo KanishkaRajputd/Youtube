@@ -2,11 +2,11 @@
 
 <h2>🚀 Demo</h2>
 
-[](https://myminiyoutube.netlify.app/)
+[https://myminiyoutube.netlify.app/](https://myminiyoutube.netlify.app/)
 
 <h2>Project Screenshots:</h2>
 
-<img src="blob:moz-extension://af780343-2bf5-4fa3-8460-41f5168351ba/c0beefeb-877e-4a78-a413-acb4776ed77a" alt="project-screenshot" width="80%" height="400/">
+<img src="file:///C:/Users/ANJALI%20CHAUHAN/Downloads/Screenshot%202022-04-27%20at%2017-09-04%20Document.png" alt="project-screenshot" width="80%" height="400/">
 
   
   
