@@ -4,7 +4,6 @@
 
 [https://myminiyoutube.netlify.app/](https://myminiyoutube.netlify.app/)
 
-<h2>Project Screenshots:</h2>
 
   
   
