@@ -1,6 +1,11 @@
+# YouTube-Clone
+
 <p id="description">A video-sharing platform used to watch videos from all around the world.</p>
+<p>Snap-Shot</p>
+<img src="https://github.com/KanishkaRajputd/Kanishka-Portfolio/raw/main/src/assets/youtube.png"/>
 
 <h2>🚀 Demo</h2>
+
 
 [https://myminiyoutube.netlify.app/](https://myminiyoutube.netlify.app/)
 
